@@ -69,8 +69,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymenBoukadida&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenBoukadida&layout=compact&theme=tokyonight" height="170"/>
+  <img src="output/pacman-contribution-graph-dark.svg" height="170"/>
 </div>
 
 
