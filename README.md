@@ -17,11 +17,9 @@
 
 ---
 
-## About
+## Currently
 
-I'm a cybersecurity engineer based in Tunisia 🇹🇳 who learns by building.
-
-My curiosity doesn't fit in one box. I'm building to explore the IT world from different POVs — writing code, understanding how systems break, defending them, and automating what comes next. Whether it's a small script, a lab, or a full pipeline, I build to learn how the pieces fit together and to get better at making technology work safely.
+I'm building to see the IT world from different POVs — not just learning how things work, but why they break, how they're defended, and what can be automated next.
 
 Right now, I'm focused on exploring that overlap: security, infrastructure, and automation — one project at a time.
 
