@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Pacman Graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1 # main
         with:
           github_user_name: ${{ github.repository_owner }}
 
